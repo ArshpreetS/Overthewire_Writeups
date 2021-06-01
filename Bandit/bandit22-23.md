@@ -24,11 +24,11 @@ If we are able to figure out the value of mytarget then we will be able to figur
 
 
 ```
-root@chief:/home/chief/Documents/gitrepo/Overthewire_Writeups/Bandit# echo I am user bandit22 | md5sum | cut -d ' ' -f 1
-8169b67bd894ddbb4412f91573b38db3
+root@chief:/home/chief/Documents/gitrepo/Overthewire_Writeups/Bandit# echo I am user bandit23 | md5sum | cut -d ' ' -f 1
+8ca319486bfbbc3663ea0fbe81326349
 ```
 `md5sum` --> created a hash
 `cut -d ' ' -f 1` --> took space as field diliminator and we took the first column from it.
 
 
-password: `Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI`
+password: `jc1udXuA1tiHqjIsL8yaapX5XIAI6i0n`
