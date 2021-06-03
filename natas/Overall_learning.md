@@ -8,3 +8,8 @@ This is a text file used to instruct the web crawlers (generally the web search 
 ### Basic Format
 
 User-agent: [user-agent-name] Disallow: [url string not to be crawled]
+
+
+## Referer Request Header
+
+This includes the full or partial url of the page from which the user is requesting the page.
